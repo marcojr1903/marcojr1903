@@ -16,7 +16,7 @@ I'm a Computer Science senior at Florida International University interested in 
 
 ## Projects
 
-### BX Forge — AI Agent Builder
+### [BX Forge — AI Agent Builder](https://github.com/marcojr1903/bx-forge)
 Worked with my team to build a web app that turns plain-English descriptions into custom BoxLang AI agent projects, with functionality to run and evaluate the generated agents. Our project earned **second place at the Ortus Solutions BoxLang AI Hackathon**.
 
 ### Tradier MCP
