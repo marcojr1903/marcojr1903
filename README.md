@@ -23,7 +23,7 @@ Worked with my team to build a web app that turns plain-English descriptions int
 Connected Tradier’s API with ChatGPT through an MCP server to retrieve stock and options data for use in automated trading workflows.
 
 ### BoxLang & MatchBox — Open-Source Contributions
-Working with a team on documentation and feature development across BoxLang and MatchBox. Our team’s work includes expanding MatchBox’s HTTP functionality to support [PATCH, HEAD, and OPTIONS](https://github.com/ortus-boxlang/matchbox/issues/48), along with related tests and documentation. Upcoming work includes implementing NTLM authentication for BoxLang’s HTTP component and adding support for inspecting ZIP file contents without extracting them.
+Collaborating with a team on feature development, testing, and documentation across BoxLang and MatchBox. Our areas of focus include expanding MatchBox’s HTTP method support to cover [PATCH, HEAD, and OPTIONS](https://github.com/ortus-boxlang/matchbox/issues/48), NTLM authentication for BoxLang’s HTTP component, and inspecting ZIP file contents without extracting them.
 
 ## Career Goals
 
