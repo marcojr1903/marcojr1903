@@ -23,13 +23,9 @@ Worked with my team to build a web app that turns plain-English descriptions int
 Connected Tradier’s API with ChatGPT through an MCP server to retrieve stock and options data for use in automated trading workflows.
 
 ### BoxLang & MatchBox — Open-Source Contributions
-Collaborating through our [team repository](https://github.com/Redd855/BoxLang) on ZIP reading, NTLM authentication, and MatchBox’s [PATCH, HEAD, and OPTIONS support](https://github.com/ortus-boxlang/matchbox/issues/48).
+Collaborating with a team on feature development, testing, and documentation across BoxLang and MatchBox, with our BoxLang work in our [team repository](https://github.com/Redd855/BoxLang). Our focus includes expanding MatchBox’s HTTP method support to cover [PATCH, HEAD, and OPTIONS](https://github.com/ortus-boxlang/matchbox/issues/48), adding NTLM authentication to BoxLang’s HTTP component, and reading ZIP contents without extracting files.
 
-My contributions:
-
-- Implemented a ZIP reading BIF with optional charset support, without extracting files.
-- Added JUnit tests for explicit and default charsets and missing entries.
-- Prepared a VS Code project import fix for formatting, hover docs, and definition navigation.
+I implemented a ZIP reading built-in function with optional charset support and added JUnit tests for explicit and default charsets and missing entries. I also investigated VS Code Java project import issues and prepared a shared settings fix for formatting, hover documentation, and definition navigation.
 
 ## Career Goals
 
